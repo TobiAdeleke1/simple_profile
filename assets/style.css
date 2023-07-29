@@ -2,3 +2,22 @@
     float: left;
     position: relative;
 }
+
+#sidebar{
+    margin: 0;
+   
+}
+
+#myside{
+ 
+    background-color: #afacad;
+   
+}
+
+#text-bg-light{
+    background-color: #9b9b9b;
+}
+
+#pagination{
+    background-color: black;
+}
